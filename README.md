@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This sample demonstrates the use of the PhoneGap Camera API to capture photos 
 with device camera or to retrieve photos from the saved photo albums. It also demonstrates 
 the variety of configurations with which photos can be captured.
@@ -69,3 +70,9 @@ Cordova (PhoneGap) Library
 
 * source:  http://www.phonegap.com/
 * license:  http://www.apache.org/licenses/LICENSE-2.0.html
+=======
+aula011-Camerab
+===============
+
+Exemplo de uso de Camera com HTML 5 - Intel
+>>>>>>> 5874870e09f520e36673eaf0655cf4d2fff94279
